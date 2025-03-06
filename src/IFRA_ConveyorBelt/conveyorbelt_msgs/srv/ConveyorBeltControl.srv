@@ -1,3 +1,0 @@
-float64[] powers  # Power for each joint (0-100)
----
-bool success
