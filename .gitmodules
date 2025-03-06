@@ -1,0 +1,6 @@
+[submodule "IFRA_ConveyorBelt"]
+	path = IFRA_ConveyorBelt
+	url = https://github.com/drmwnrafi/IFRA_ConveyorBelt.git
+[submodule "src/ros2-simple-mobile-robot"]
+	path = src/ros2-simple-mobile-robot
+	url = https://github.com/drmwnrafi/ros2-simple-mobile-robot.git

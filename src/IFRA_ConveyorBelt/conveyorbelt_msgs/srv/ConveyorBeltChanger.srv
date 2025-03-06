@@ -1,0 +1,3 @@
+bool[] enable     # Enable/disable each joint
+---
+bool success

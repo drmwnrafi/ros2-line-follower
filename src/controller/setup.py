@@ -19,7 +19,8 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            'controller_node = controller.ctrl_node:main'
+            'controller_robot = controller.ctrl_robot:main',
+            'controller_conveyor = controller.ctrl_conveyor:main',
         ],
     },
 )
